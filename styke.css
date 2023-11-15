@@ -1,0 +1,68 @@
+body {
+    Schriftfamilie: „Open Sans“, serifenlos;
+    background-color:#dbe4ed;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.header-image {
+width: 100%;
+height:400px;
+object-fit:cover;
+object-position:50% 15%;
+display:block;
+}
+.headline {
+color:rgb(17, 10, 218);
+}
+.imag-container {background-color: white;
+padding: 16px;
+}
+
+.navbar {
+display: flex;
+justify-content:space-between;
+align-items:center;
+}
+
+a {
+color:rgb(109, 218, 70);
+text-decoration: none;
+margin: 16px;
+font-weight:600;
+}   
+a:hover {
+text-decoration: underline;
+}
+
+.text-highlight {
+color:#a2c9f0;
+font-size: 46px;
+}
+
+.text-container {
+background-color: #56bcc7;
+padding: 32px;
+color: #1182f4;
+fond: 600;
+}
+.maps-container {
+margin-top: 16px;
+display: flex;
+justify-content: space-between;
+}
+.maps-right {
+margin-left: 16px;
+width: 30%;
+}
+.maps-frame [
+border: 0;
+bright: 350;
+width: 70%
+]
+.leagel-content {
+padding: 8px;
+} 
+.leagel-text {
+margin-right: 16px;
+
+}
